@@ -20,7 +20,6 @@
   "educationList": [{
     "edu_time": ["2013", "2017"],
     "school": "华中科技大学",
-    "academic_degree": "本科",
     "dataIndex": 0
   }, {
     "edu_time": ["2017", "2020"],
